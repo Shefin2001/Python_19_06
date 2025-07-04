@@ -32,4 +32,31 @@ The tool will serve developers by providing insightful, actionable reports that 
 - Deliver within 15 days
 - Test coverage ≥90%
 
-##
+# Success Criteria
+
+- Functionality:
+  - Support for Python 3.x and C++14+
+  - Identify and report on time complexity patterns
+  - Optimization recommendations for common patterns
+  - Report output in JSON and HTML
+
+- Performance:
+  - < 5 sec analysis on 500-line files
+  - Acceptable performance on 5,000-line codebases
+
+- Quality:
+  - ≥90% test coverage
+  - No critical bugs on final acceptance
+
+- Usability:
+  - CLI with simple commands
+  - Clear user documentation
+
+- Compliance:
+  - Open-source libraries only
+  - Secure code parsing
+
+- Delivery:
+  - All deliverables within 15 days
+  - Documentation included
+
